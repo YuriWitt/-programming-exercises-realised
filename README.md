@@ -1,1 +1,3 @@
 # -programming-exercises-realised
+
+Lista de exercícios do perfil andrejunges de programação realizadas...
